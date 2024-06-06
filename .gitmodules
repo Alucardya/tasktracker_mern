@@ -1,0 +1,3 @@
+[submodule "taskmanager"]
+    path = taskmanager
+    url = <https://github.com/Alucardya/tasktracker_mern>
